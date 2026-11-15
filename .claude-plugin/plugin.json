@@ -1,0 +1,10 @@
+{
+  "name": "black-eclipse",
+  "version": "0.1.0",
+  "description": "Dark-fantasy look: blood crimson, iron and parchment, with an animated eclipse, a pixel-art swordsman, crows and rising embers",
+  "author": { "name": "nomad1q", "url": "https://github.com/nomad1q" },
+  "homepage": "https://github.com/nomad1q/black-eclipse-claude-theme",
+  "repository": "https://github.com/nomad1q/black-eclipse-claude-theme",
+  "license": "MIT",
+  "keywords": ["theme", "dark-fantasy", "pixel-art", "claude-desktop"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nomad1q-themes",
+  "description": "Themes for the Claude desktop app by nomad1q",
+  "owner": {
+    "name": "nomad1q",
+    "url": "https://github.com/nomad1q"
+  },
+  "plugins": [
+    {
+      "name": "black-eclipse",
+      "source": "./",
+      "description": "Dark-fantasy theme for the Claude desktop app"
+    }
+  ]
+}
