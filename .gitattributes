@@ -1,0 +1,3 @@
+# Third-party helper copied from the Claude Code plugin-authoring kit; keep it out of language stats
+hooks/make-colors.js linguist-vendored
+hooks/make-colors.d.ts linguist-vendored
